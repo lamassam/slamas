@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, University of Colorado Boulder, Expected December 2026
+* B.S. in Business, Finance Concentration, Dominican University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Senior Behavioral Researcher
+  * Morningstar
+  * Core tasks: 
+    * Thought leadership
+    * Stakeholder engagement & communication
+    * Research project management & execution
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2023: Behavioral Researcher/Associate Behavioral Researcher
+  * Morningstar
+  * Core tasks: 
+    * Survey design
+    * Data analysis
+    * Develop derivative content based on research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2018: Marketing Associate
+  * Morningstar
+  * Core tasks:
+    * Synthesize research findings into delieverable content
+    * Partner cross functionally to apply research insights
+    * Manage cross function projects 
   
-Skills
+Core Competencies & Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experiment & survey design
+* Tools & data analysis
+  * Qualtrics, Prolific, CloudResearch
+  * Excel, PowerPoint
+  * Python, R, SQL
+* Data Analysis
+  * Regression analysis
+  * ANOVA
+  * Quant/qual data analysis
+  * A/B testing
 
 Publications
 ======
